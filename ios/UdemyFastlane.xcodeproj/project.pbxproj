@@ -987,7 +987,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.reckon.fastlane;
 				PRODUCT_NAME = UdemyFastlane;
-				PROVISIONING_PROFILE = "58bf4faa-147b-41a0-a6f5-8f5c555761ef";
+				PROVISIONING_PROFILE = "cada6203-9943-4405-9174-67a9ba0a07df";
 				PROVISIONING_PROFILE_SPECIFIER = "match Development com.reckon.fastlane";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1011,7 +1011,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.reckon.fastlane;
 				PRODUCT_NAME = UdemyFastlane;
-				PROVISIONING_PROFILE = "f23dccdd-1490-479f-bff2-200fff3d8d29";
+				PROVISIONING_PROFILE = "78b05254-0301-4318-8812-e5a4e3be6fc3";
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.reckon.fastlane";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
