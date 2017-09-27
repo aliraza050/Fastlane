@@ -39,7 +39,7 @@ platform :ios do
     clean_build_artifacts
     commit_version_bump(
       message: "Fastlane iOS: Released new build #{lane_context[SharedValues::BUILD_NUMBER]} [ci skip]",
-      xcodeproj: "./Fastlane.xcodeproj",
+      xcodeproj: "./UdemyFastlane.xcodeproj",
       force: true
     )
     # sh "your_script.sh"
